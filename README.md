@@ -1,74 +1,74 @@
 # E-commerce-Customer-Behavior
 
-About Dataset
-Dataset Description: E-commerce Customer Behavior
+Sobre o conjunto de dados
+Descrição do conjunto de dados: Comportamento do cliente de comércio eletrônico
 
-Overview:
-This dataset provides a comprehensive view of customer behavior within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, aiding businesses in making data-driven decisions to enhance the customer experience.
+Visão geral:
+esse conjunto de dados fornece uma visão abrangente do comportamento do cliente em uma plataforma de comércio eletrônico. Cada entrada no conjunto de dados corresponde a um único cliente, oferecendo um detalhamento de suas interações e transações. As informações são criadas para facilitar uma análise diferenciada das preferências do cliente, padrões de engajamento e níveis de satisfação, ajudando as empresas a tomar decisões baseadas em dados para melhorar a experiência do cliente.
 
-Columns:
+Colunas:
 
-Customer ID:
+ID do cliente:
 
-Type: Numeric
-Description: A unique identifier assigned to each customer, ensuring distinction across the dataset.
-Gender:
+Tipo: Numérico
+Descrição: __________: Um identificador exclusivo atribuído a cada cliente, garantindo distinção em todo o conjunto de dados.
+Gênero:
 
-Type: Categorical (Male, Female)
-Description: Specifies the gender of the customer, allowing for gender-based analytics.
-Age:
+Tipo: Categórico (Masculino, Feminino)
+Descrição: __________: Especifica o gênero do cliente, permitindo análises baseadas em gênero.
+Idade:
 
-Type: Numeric
-Description: Represents the age of the customer, enabling age-group-specific insights.
-City:
+Tipo: Numérico
+Descrição: __________: Representa a idade do cliente, permitindo insights específicos da faixa etária.
+Cidade:
 
-Type: Categorical (City names)
-Description: Indicates the city of residence for each customer, providing geographic insights.
-Membership Type:
+Tipo: Categórico (nomes de cidades)
+Descrição: __________: Indica a cidade de residência de cada cliente, fornecendo insights geográficos.
+Tipo de associação:
 
-Type: Categorical (Gold, Silver, Bronze)
-Description: Identifies the type of membership held by the customer, influencing perks and benefits.
-Total Spend:
+Tipo: Categórico (Ouro, Prata, Bronze)
+Descrição: __________: Identifica o tipo de associação realizada pelo cliente, influenciando vantagens e benefícios.
+Gasto Total:
 
-Type: Numeric
-Description: Records the total monetary expenditure by the customer on the e-commerce platform.
-Items Purchased:
+Tipo: Numérico
+Descrição: __________: Registra o gasto monetário total do cliente na plataforma de e-commerce.
+Itens comprados:
 
-Type: Numeric
-Description: Quantifies the total number of items purchased by the customer.
-Average Rating:
+Tipo: Numérico
+Descrição: __________: Quantifica o número total de itens comprados pelo cliente.
+Média:
 
-Type: Numeric (0 to 5, with decimals)
-Description: Represents the average rating given by the customer for purchased items, gauging satisfaction.
-Discount Applied:
+Tipo: Numérico (0 a 5, com decimais)
+Descrição: __________: Representa a classificação média dada pelo cliente para os itens adquiridos, medindo a satisfação.
+Desconto aplicado:
 
-Type: Boolean (True, False)
-Description: Indicates whether a discount was applied to the customer's purchase, influencing buying behavior.
-Days Since Last Purchase:
+Tipo: Booleano (Verdadeiro, Falso)
+Descrição: __________: Indica se um desconto foi aplicado na compra do cliente, influenciando o comportamento de compra.
+Dias desde a última compra:
 
-Type: Numeric
-Description: Reflects the number of days elapsed since the customer's most recent purchase, aiding in retention analysis.
-Satisfaction Level:
+Tipo: Numérico
+Descrição: __________: Reflete o número de dias decorridos desde a compra mais recente do cliente, auxiliando na análise de retenção.
+Nível de Satisfação:
 
-Type: Categorical (Satisfied, Neutral, Unsatisfied)
-Description: Captures the overall satisfaction level of the customer, providing a subjective measure of their experience.
-Use Cases:
+Tipo: Categórico (Satisfeito, Neutro, Insatisfeito)
+Descrição: __________: Captura o nível geral de satisfação do cliente, fornecendo uma medida subjetiva de sua experiência.
+Casos de uso:
 
-Customer Segmentation:
+Segmentação de Clientes:
 
-Analyze and categorize customers based on demographics, spending habits, and satisfaction levels.
-Satisfaction Analysis:
+Analise e categorize os clientes com base em dados demográficos, hábitos de consumo e níveis de satisfação.
+Análise de Satisfação:
 
-Investigate factors influencing customer satisfaction and identify areas for improvement.
-Promotion Strategy:
+Investigar os fatores que influenciam a satisfação do cliente e identificar áreas de melhoria.
+Estratégia de Promoção:
 
-Assess the impact of discounts on customer spending and tailor promotional strategies accordingly.
-Retention Strategies:
+Avalie o impacto dos descontos nos gastos dos clientes e adapte as estratégias promocionais de acordo.
+Estratégias de retenção:
 
-Develop targeted retention strategies by understanding the time gap since the last purchase.
-City-based Insights:
+Desenvolva estratégias de retenção direcionadas entendendo o intervalo de tempo desde a última compra.
+Insights baseados na cidade:
 
-Explore regional variations in customer behavior to optimize marketing efforts based on location-specific trends.
-Note: This dataset is synthetically generated for illustrative purposes, and any resemblance to real individuals or scenarios is coincidental.
+Explore as variações regionais no comportamento do cliente para otimizar os esforços de marketing com base em tendências específicas do local.
+Nota: Esse conjunto de dados é gerado sinteticamente para fins ilustrativos, e qualquer semelhança com indivíduos ou cenários reais é coincidência.
 
 link: https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset/data
